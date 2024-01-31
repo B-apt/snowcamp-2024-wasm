@@ -4,12 +4,12 @@ use (
   ./02-hello-go
   ./03-files-go
   ./04-env-var-go
-  ./05-call-functions-go
-  ./06-wasm-cli
-  ./07-extism-go-plug-in
-  ./10-go-host-application
-  ./function
-  ./11-http-server
-  ./12-http-server
-  ./13-http-server
+  // ./05-call-functions-go
+   ./06-wasm-cli
+  // ./07-extism-go-plug-in
+  // ./10-go-host-application
+   ./function
+  // ./11-http-server
+  // ./12-http-server
+  // ./13-http-server
 )

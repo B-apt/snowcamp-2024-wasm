@@ -119,6 +119,13 @@ func main() {
 }
 ```
 
+```
+# Compil & exécution :
+
+go build
+./wasm-cli
+```
+
 ## `hello` wasm function
 > inspiration: https://github.com/tetratelabs/wazero/blob/main/examples/allocation/tinygo/testdata/greet.go
 
